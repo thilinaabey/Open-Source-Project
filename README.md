@@ -21,7 +21,6 @@
 <p align="center">
   <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
 </p>
-
 ## Contributors 🍉
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
@@ -53,6 +52,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
     </tbody>
 </table>
 
-
+<td align="center">
+                <a href="https://github.com/Ronskie0804">
+                    <img src="https://avatars.githubusercontent.com/u/140984233?v=4" width="100px;" alt="ronskie"/>
+                    <br />
+                    <sub><b>ronskie</b></sub>
 
           
