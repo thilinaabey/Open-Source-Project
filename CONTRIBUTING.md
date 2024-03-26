@@ -31,6 +31,13 @@
             <sub><b>Dineth KR
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/Akanksha10029>
+            <img src="https://avatars.githubusercontent.com/u/112504655?v=4" width="100px;" alt="Akanksha Rani"/>
+            <br />
+            <sub><b>Akanksha10029</b></sub>
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
