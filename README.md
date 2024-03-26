@@ -42,6 +42,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Thilina Abeysinghe</b></sub>
                 </a> 
             </td>
+            <td align="center">
+                <a href="https://www.hafiziazmi.dev">
+                    <img src="https://avatars.githubusercontent.com/u/6239368?v=4" width="100px;" alt="Hafizi Azmi"/>
+                    <br />
+                    <sub><b>Hafizi Azmi</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
