@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+  # Welcome to Open Source Contributions 🍉
 
 
 <p>List of actively participating individulas in open source contributions</p>
@@ -52,7 +52,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Ronskie0804">
                     <img src="https://avatars.githubusercontent.com/u/140984233?v=4" width="100px;" alt="Hafizi Azmi"/>
                     <br />
-                    <sub><b>add name</b></sub>
+                    <sub><b>Ronskie</b></sub>
                 </a>
             </td>
         </tr>
