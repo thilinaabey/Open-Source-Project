@@ -7,19 +7,18 @@
 - Make a Pull Request
 - [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
 
-<p align="center">
-    <a href="https://www.twitter.com/thilinaabey">
-        <img height="50" src="https://cdn-icons-png.flaticon.com/512/4096/4096132.png"/>
-    </a>
-    <a href="https://linkedin.com/in/thilinaabey">
-        <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-    </a>
-    
-    
-</p>
+
+
+
+<div align="center"> 
+<p>If you liked the tutorial, please star this repo by clicking the star button on the top right of this page.</p>
+<img src= "https://firstcontributions.github.io/assets/star.png" >
+
+</div>
+</br>
   
 <p align="center">
-  <img src= "https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
+  <img src= "https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif">
 </p>
 ## Contributors 🍉
 
