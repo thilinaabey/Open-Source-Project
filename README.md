@@ -66,7 +66,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/davysongs">
                   <img src="https://avatars.githubusercontent.com/u/96971058?v=4" width="100px;" alt="Godson David"/>
                   <br />
-                  <sub><b>Akanksha10029</b></sub>
+                  <sub><b>Davysongs</b></sub>
                 </a>
             </td>
         </tr>
