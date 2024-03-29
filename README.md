@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/MdSaifAliMolla">
+                  <img src="https://avatars.githubusercontent.com/u/145194907?v=4" width="100px;" alt="Saif Ali"/>
+                  <br />
+                  <sub><b>Saif</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/davysongs">
                   <img src="https://avatars.githubusercontent.com/u/96971058?v=4" width="100px;" alt="Godson David"/>
                   <br />
