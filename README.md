@@ -49,7 +49,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/Ronskie0804">
-                    <img src="https://avatars.githubusercontent.com/u/140984233?v=4" width="100px;" alt="Hafizi Azmi"/>
+                    <img src="![alt text](image-1.png)" width="100px;" alt="Hafizi Azmi"/>
                     <br />
                     <sub><b>Ronskie</b></sub>
                 </a>
@@ -63,10 +63,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://twitter.com/ronskie0888">
-                  <img src="https://twitter.com/ronskie0888/photo" width="100px;" alt="ronskie0888"/>
+                  <img src="https://twitter.com/ronskie0888/photo" width="100px;" alt="Hafizi Azmi"/>
                   <br />
                   <sub><b>ronskie0888</b></sub>
-            </td>
+            </td>align="center">
+                <a href="https://forum.tea.xyz/t/staking-reward-and-earn/11694">
+                  <img src="![alt text](image-2.png)" width="100px;" alt="Hafizi Azmi"/>
+                  <br />
+                  <sub><b>ronskie0888</b></sub>
         </tr>
     </tbody>
 </table>
