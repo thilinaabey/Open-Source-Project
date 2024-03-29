@@ -62,11 +62,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/davysongs">
-                  <img src="https://avatars.githubusercontent.com/u/96971058?v=4" width="100px;" alt="Godson David"/>
+                <a href="https://twitter.com/ronskie0888">
+                  <img src="https://twitter.com/ronskie0888/photo" width="100px;" alt="ronskie0888"/>
                   <br />
-                  <sub><b>Davysongs</b></sub>
-                </a>
+                  <sub><b>ronskie0888</b></sub>
             </td>
         </tr>
     </tbody>

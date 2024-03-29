@@ -41,3 +41,6 @@
 10) You have created a pull request, wait for a member to review and merge it : )
 
 Lastly, GitHub/Git are vital in open-source contributions, to learn more about them check this blog [here](https://dragon2002.hashnode.dev/git-and-github-must-know-guide#heading-setting-up-github).
+[
+    
+](https://forum.tea.xyz/t/staking-reward-and-earn/11694)
