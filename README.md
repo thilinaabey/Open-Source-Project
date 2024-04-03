@@ -68,6 +68,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   <sub><b>Davysongs</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/kish7105">
+                  <img src="https://avatars.githubusercontent.com/u/92726750?v=4" width="100px;" alt="kish7105"/>
+                  <br />
+                  <sub><b>Dhruv Sharma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
