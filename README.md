@@ -75,6 +75,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   <sub><b>Dhruv Sharma</b></sub>
                 </a>
             </td>
+          <td align="center">
+    <a href="https://github.com/shettyarjun">
+        <img src="https://avatars.githubusercontent.com/u/104248764?v=4" width="100px;" alt="Arjun Shetty"/>
+        <br />
+        <sub><b>Ali Solanki</b></sub>
+    </a>
+</td>
         </tr>
     </tbody>
 </table>
