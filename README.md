@@ -41,6 +41,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Anupam-03">
+                    <img src="https://avatars.githubusercontent.com/u/116145439?v=4" width="100px;" alt="Anupam Nandi"/>
+                    <br />
+                    <sub><b>Anupam Nandi</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://www.hafiziazmi.dev">
                     <img src="https://avatars.githubusercontent.com/u/6239368?v=4" width="100px;" alt="Hafizi Azmi"/>
                     <br />
