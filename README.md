@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <sub><b>xCoincidence</b></sub>
     </a>
 </td>
+<td align="center">
+                <a href="https://github.com/swapnonil04">
+                    <img src="https://avatars.githubusercontent.com/u/143721273?s=400&u=a268c96692add2865166e75f418ac06b9768ac03&v=4" width="100px;" alt="Swaps"/>
+                    <br />
+                    <sub><b>Swaps</b></sub>
+                </a> 
+            </td>
         </tr>
     </tbody>
 </table>
